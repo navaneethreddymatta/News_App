@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InClass06</string>
+    <string name="loading_text">Loading News</string>
+    <string name="datasource">http://rss.cnn.com/rss/cnn_tech.rss</string>
+</resources>
